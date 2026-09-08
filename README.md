@@ -1,5 +1,5 @@
 # Developer Profile
 
-- **Developer:** Towsif Hassan
+- **Developer:** Towsif Hassan (@cyber-kuro)
 - **Hobby:** adventure
 - **Preferred Development Tool:** VS Code
