@@ -1,5 +1,5 @@
 # Developer Profile
 
-- **Name:** Towsif Hassan
+- **Developer:** Towsif Hassan
 - **Hobby:** adventure
 - **Preferred Development Tool:** VS Code
