@@ -1,7 +1,7 @@
 # Project Idea
 ## Project Name
-TBD
+StudyBuddy
 ## Problem to Solve
 TBD
 ## Target User
-TBD
+College Students
